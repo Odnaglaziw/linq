@@ -1,0 +1,10 @@
+D:\Документы\VS projects\linq2\bin\Debug\linq2.exe.config
+D:\Документы\VS projects\linq2\bin\Debug\linq2.exe
+D:\Документы\VS projects\linq2\bin\Debug\linq2.pdb
+D:\Документы\VS projects\linq2\obj\Debug\linq2.csproj.AssemblyReference.cache
+D:\Документы\VS projects\linq2\obj\Debug\linq2.Form1.resources
+D:\Документы\VS projects\linq2\obj\Debug\linq2.Properties.Resources.resources
+D:\Документы\VS projects\linq2\obj\Debug\linq2.csproj.GenerateResource.cache
+D:\Документы\VS projects\linq2\obj\Debug\linq2.csproj.CoreCompileInputs.cache
+D:\Документы\VS projects\linq2\obj\Debug\linq2.exe
+D:\Документы\VS projects\linq2\obj\Debug\linq2.pdb
